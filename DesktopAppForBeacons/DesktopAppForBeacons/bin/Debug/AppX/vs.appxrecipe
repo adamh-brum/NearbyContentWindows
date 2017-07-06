@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>LUK-PC0HADPY</Machine>
+    <WindowsUser>JHARVEY</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>cd394e44-8c45-4e49-a7a6-10b0f92e18a9</PackageIdentityName>
+    <PackageIdentityPublisher>CN=JHARVEY</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\Users\JHARVEY\Documents\Visual Studio 2017\Projects\DesktopAppForBeacons\DesktopAppForBeacons\bld\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType>
+    </RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <DeployOptionalPackages>false</DeployOptionalPackages>
+    <WindowsSdkPath>
+    </WindowsSdkPath>
+    <LayoutDir>C:\Users\JHARVEY\Documents\Visual Studio 2017\Projects\DesktopAppForBeacons\DesktopAppForBeacons\bin\Debug\AppX</LayoutDir>
+    <RegisteredManifestChecksum>C2C6B0AB189C0D848D73914E0EB785FCCFD1AED27D008AD9657D080B17098B21</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>cd394e44-8c45-4e49-a7a6-10b0f92e18a9_1.0.0.0_neutral__cmf7fzqxfb2te</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>cd394e44-8c45-4e49-a7a6-10b0f92e18a9_cmf7fzqxfb2te!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>cd394e44-8c45-4e49-a7a6-10b0f92e18a9</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=JHARVEY</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\JHARVEY\Documents\Visual Studio 2017\Projects\DesktopAppForBeacons\DesktopAppForBeacons\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-07-06T11:21:20.382</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\JHARVEY\Documents\Visual Studio 2017\Projects\DesktopAppForBeacons\DesktopAppForBeacons\index.html">
+      <PackagePath>index.html</PackagePath>
+      <Modified>2017-07-06T11:23:15.897</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JHARVEY\Documents\Visual Studio 2017\Projects\DesktopAppForBeacons\DesktopAppForBeacons\images\LockScreenLogo.scale-200.png">
+      <PackagePath>images\LockScreenLogo.scale-200.png</PackagePath>
+      <Modified>2017-06-19T12:51:58.437</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JHARVEY\Documents\Visual Studio 2017\Projects\DesktopAppForBeacons\DesktopAppForBeacons\images\SplashScreen.scale-200.png">
+      <PackagePath>images\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-06-19T12:51:58.437</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JHARVEY\Documents\Visual Studio 2017\Projects\DesktopAppForBeacons\DesktopAppForBeacons\images\Square150x150Logo.scale-200.png">
+      <PackagePath>images\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-06-19T12:51:58.437</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JHARVEY\Documents\Visual Studio 2017\Projects\DesktopAppForBeacons\DesktopAppForBeacons\images\Square44x44Logo.scale-200.png">
+      <PackagePath>images\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-06-19T12:51:58.437</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JHARVEY\Documents\Visual Studio 2017\Projects\DesktopAppForBeacons\DesktopAppForBeacons\images\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>images\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-06-19T12:51:58.437</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JHARVEY\Documents\Visual Studio 2017\Projects\DesktopAppForBeacons\DesktopAppForBeacons\images\StoreLogo.png">
+      <PackagePath>images\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-06-19T12:51:58.437</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JHARVEY\Documents\Visual Studio 2017\Projects\DesktopAppForBeacons\DesktopAppForBeacons\images\Wide310x150Logo.scale-200.png">
+      <PackagePath>images\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-06-19T12:51:58.437</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JHARVEY\Documents\Visual Studio 2017\Projects\DesktopAppForBeacons\DesktopAppForBeacons\js\BackgroundWatcher.js">
+      <PackagePath>js\BackgroundWatcher.js</PackagePath>
+      <Modified>2017-07-06T11:22:08.207</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JHARVEY\Documents\Visual Studio 2017\Projects\DesktopAppForBeacons\DesktopAppForBeacons\js\main.js">
+      <PackagePath>js\main.js</PackagePath>
+      <Modified>2017-07-06T11:18:41.830</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JHARVEY\Documents\Visual Studio 2017\Projects\DesktopAppForBeacons\DesktopAppForBeacons\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+      <Modified>2017-07-04T12:10:45.938</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JHARVEY\Documents\Visual Studio 2017\Projects\DesktopAppForBeacons\DesktopAppForBeacons\bin\Debug\ReverseMap\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-07-06T11:21:20.288</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

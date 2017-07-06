@@ -1,0 +1,16 @@
+c:\users\jharvey\documents\visual studio 2017\Projects\DesktopAppForBeacons\DesktopAppForBeacons\bin\Debug\ReverseMap\resources.pri
+c:\users\jharvey\documents\visual studio 2017\Projects\DesktopAppForBeacons\DesktopAppForBeacons\bin\Debug\AppxManifest.xml
+c:\users\jharvey\documents\visual studio 2017\Projects\DesktopAppForBeacons\DesktopAppForBeacons\bin\Debug\DesktopAppForBeacons.build.appxrecipe
+c:\users\jharvey\documents\visual studio 2017\Projects\DesktopAppForBeacons\DesktopAppForBeacons\bld\Debug\ResourceHandlingTask.state
+c:\users\jharvey\documents\visual studio 2017\Projects\DesktopAppForBeacons\DesktopAppForBeacons\bld\Debug\priconfig.xml
+c:\users\jharvey\documents\visual studio 2017\Projects\DesktopAppForBeacons\DesktopAppForBeacons\bld\Debug\priconfig.xml.intermediate
+c:\users\jharvey\documents\visual studio 2017\Projects\DesktopAppForBeacons\DesktopAppForBeacons\bld\Debug\layout.resfiles
+c:\users\jharvey\documents\visual studio 2017\Projects\DesktopAppForBeacons\DesktopAppForBeacons\bld\Debug\layout.resfiles.intermediate
+c:\users\jharvey\documents\visual studio 2017\Projects\DesktopAppForBeacons\DesktopAppForBeacons\bld\Debug\resources.resfiles
+c:\users\jharvey\documents\visual studio 2017\Projects\DesktopAppForBeacons\DesktopAppForBeacons\bld\Debug\resources.resfiles.intermediate
+c:\users\jharvey\documents\visual studio 2017\Projects\DesktopAppForBeacons\DesktopAppForBeacons\bld\Debug\pri.resfiles
+c:\users\jharvey\documents\visual studio 2017\Projects\DesktopAppForBeacons\DesktopAppForBeacons\bld\Debug\pri.resfiles.intermediate
+c:\users\jharvey\documents\visual studio 2017\Projects\DesktopAppForBeacons\DesktopAppForBeacons\bld\Debug\qualifiers.txt
+c:\users\jharvey\documents\visual studio 2017\Projects\DesktopAppForBeacons\DesktopAppForBeacons\bld\Debug\qualifiers.txt.intermediate
+c:\users\jharvey\documents\visual studio 2017\Projects\DesktopAppForBeacons\DesktopAppForBeacons\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\jharvey\documents\visual studio 2017\Projects\DesktopAppForBeacons\DesktopAppForBeacons\bld\Debug\ProjectArchitectures.txt
