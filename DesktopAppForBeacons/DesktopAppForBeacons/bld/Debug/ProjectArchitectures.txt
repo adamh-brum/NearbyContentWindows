@@ -1,1 +1,1 @@
-C:\Users\JHARVEY\Documents\Visual Studio 2017\Projects\DesktopAppForBeacons\DesktopAppForBeacons\DesktopAppForBeacons.jsproj;neutral
+C:\Users\AHAYCOCK\Source\Repos\NearbyContentWindows\DesktopAppForBeacons\DesktopAppForBeacons\DesktopAppForBeacons.jsproj;neutral

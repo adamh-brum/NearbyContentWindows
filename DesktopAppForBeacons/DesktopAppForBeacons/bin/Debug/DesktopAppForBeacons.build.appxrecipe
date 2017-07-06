@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
-    <Machine>LUK-PC0HADPY</Machine>
-    <WindowsUser>JHARVEY</WindowsUser>
+    <Machine>LUK-PC0GCDQK</Machine>
+    <WindowsUser>AHAYCOCK</WindowsUser>
     <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
     <TargetOsVersion>10.0</TargetOsVersion>
     <TargetOsDescription>Windows 10.0</TargetOsDescription>
@@ -10,61 +10,118 @@
     <PackageArchitecture>neutral</PackageArchitecture>
     <PackageIdentityName>cd394e44-8c45-4e49-a7a6-10b0f92e18a9</PackageIdentityName>
     <PackageIdentityPublisher>CN=JHARVEY</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Users\JHARVEY\Documents\Visual Studio 2017\Projects\DesktopAppForBeacons\DesktopAppForBeacons\bld\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\AHAYCOCK\Source\Repos\NearbyContentWindows\DesktopAppForBeacons\DesktopAppForBeacons\bld\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType></RemoteDeploymentType>
     <PackageRegistrationPath></PackageRegistrationPath>
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath></WindowsSdkPath>
-    <LayoutDir>C:\Users\JHARVEY\Documents\Visual Studio 2017\Projects\DesktopAppForBeacons\DesktopAppForBeacons\bin\Debug\AppX</LayoutDir>
+    <LayoutDir>C:\Users\AHAYCOCK\Source\Repos\NearbyContentWindows\DesktopAppForBeacons\DesktopAppForBeacons\bin\Debug\AppX</LayoutDir>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\JHARVEY\Documents\Visual Studio 2017\Projects\DesktopAppForBeacons\DesktopAppForBeacons\bin\Debug\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\AHAYCOCK\Source\Repos\NearbyContentWindows\DesktopAppForBeacons\DesktopAppForBeacons\bin\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\JHARVEY\Documents\Visual Studio 2017\Projects\DesktopAppForBeacons\DesktopAppForBeacons\index.html">
+    <AppxPackagedFile Include="C:\Users\AHAYCOCK\Source\Repos\NearbyContentWindows\DesktopAppForBeacons\DesktopAppForBeacons\index.html">
       <PackagePath>index.html</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\JHARVEY\Documents\Visual Studio 2017\Projects\DesktopAppForBeacons\DesktopAppForBeacons\images\LockScreenLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\AHAYCOCK\Source\Repos\NearbyContentWindows\DesktopAppForBeacons\DesktopAppForBeacons\Scenario1_Watcher.html">
+      <PackagePath>Scenario1_Watcher.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\AHAYCOCK\Source\Repos\NearbyContentWindows\DesktopAppForBeacons\DesktopAppForBeacons\images\LockScreenLogo.scale-200.png">
       <PackagePath>images\LockScreenLogo.scale-200.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\JHARVEY\Documents\Visual Studio 2017\Projects\DesktopAppForBeacons\DesktopAppForBeacons\images\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\AHAYCOCK\Source\Repos\NearbyContentWindows\DesktopAppForBeacons\DesktopAppForBeacons\images\SplashScreen.scale-200.png">
       <PackagePath>images\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\JHARVEY\Documents\Visual Studio 2017\Projects\DesktopAppForBeacons\DesktopAppForBeacons\images\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\AHAYCOCK\Source\Repos\NearbyContentWindows\DesktopAppForBeacons\DesktopAppForBeacons\images\Square150x150Logo.scale-200.png">
       <PackagePath>images\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\JHARVEY\Documents\Visual Studio 2017\Projects\DesktopAppForBeacons\DesktopAppForBeacons\images\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\AHAYCOCK\Source\Repos\NearbyContentWindows\DesktopAppForBeacons\DesktopAppForBeacons\images\Square44x44Logo.scale-200.png">
       <PackagePath>images\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\JHARVEY\Documents\Visual Studio 2017\Projects\DesktopAppForBeacons\DesktopAppForBeacons\images\Square44x44Logo.targetsize-24_altform-unplated.png">
+    <AppxPackagedFile Include="C:\Users\AHAYCOCK\Source\Repos\NearbyContentWindows\DesktopAppForBeacons\DesktopAppForBeacons\images\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>images\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\JHARVEY\Documents\Visual Studio 2017\Projects\DesktopAppForBeacons\DesktopAppForBeacons\images\StoreLogo.png">
+    <AppxPackagedFile Include="C:\Users\AHAYCOCK\Source\Repos\NearbyContentWindows\DesktopAppForBeacons\DesktopAppForBeacons\images\StoreLogo.png">
       <PackagePath>images\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\JHARVEY\Documents\Visual Studio 2017\Projects\DesktopAppForBeacons\DesktopAppForBeacons\images\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\AHAYCOCK\Source\Repos\NearbyContentWindows\DesktopAppForBeacons\DesktopAppForBeacons\images\Wide310x150Logo.scale-200.png">
       <PackagePath>images\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\JHARVEY\Documents\Visual Studio 2017\Projects\DesktopAppForBeacons\DesktopAppForBeacons\js\BackgroundWatcher.js">
+    <AppxPackagedFile Include="C:\Users\AHAYCOCK\Source\Repos\NearbyContentWindows\DesktopAppForBeacons\DesktopAppForBeacons\js\BackgroundWatcher.js">
       <PackagePath>js\BackgroundWatcher.js</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\JHARVEY\Documents\Visual Studio 2017\Projects\DesktopAppForBeacons\DesktopAppForBeacons\js\main.js">
+    <AppxPackagedFile Include="C:\Users\AHAYCOCK\Source\Repos\NearbyContentWindows\DesktopAppForBeacons\DesktopAppForBeacons\js\main.js">
       <PackagePath>js\main.js</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\JHARVEY\Documents\Visual Studio 2017\Projects\DesktopAppForBeacons\DesktopAppForBeacons\css\default.css">
+    <AppxPackagedFile Include="C:\Users\AHAYCOCK\Source\Repos\NearbyContentWindows\DesktopAppForBeacons\DesktopAppForBeacons\js\Scenario1_Watcher.js">
+      <PackagePath>js\Scenario1_Watcher.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\AHAYCOCK\Source\Repos\NearbyContentWindows\DesktopAppForBeacons\DesktopAppForBeacons\WinJS\js\base.js">
+      <PackagePath>WinJS\js\base.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\AHAYCOCK\Source\Repos\NearbyContentWindows\DesktopAppForBeacons\DesktopAppForBeacons\WinJS\js\base.min.js">
+      <PackagePath>WinJS\js\base.min.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\AHAYCOCK\Source\Repos\NearbyContentWindows\DesktopAppForBeacons\DesktopAppForBeacons\WinJS\js\en-US\ui.strings.js">
+      <PackagePath>WinJS\js\en-US\ui.strings.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\AHAYCOCK\Source\Repos\NearbyContentWindows\DesktopAppForBeacons\DesktopAppForBeacons\WinJS\js\ui.js">
+      <PackagePath>WinJS\js\ui.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\AHAYCOCK\Source\Repos\NearbyContentWindows\DesktopAppForBeacons\DesktopAppForBeacons\WinJS\js\ui.min.js">
+      <PackagePath>WinJS\js\ui.min.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\AHAYCOCK\Source\Repos\NearbyContentWindows\DesktopAppForBeacons\DesktopAppForBeacons\WinJS\js\WinJS.intellisense-setup.js">
+      <PackagePath>WinJS\js\WinJS.intellisense-setup.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\AHAYCOCK\Source\Repos\NearbyContentWindows\DesktopAppForBeacons\DesktopAppForBeacons\WinJS\js\WinJS.intellisense.js">
+      <PackagePath>WinJS\js\WinJS.intellisense.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\AHAYCOCK\Source\Repos\NearbyContentWindows\DesktopAppForBeacons\DesktopAppForBeacons\css\default.css">
       <PackagePath>css\default.css</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\JHARVEY\Documents\Visual Studio 2017\Projects\DesktopAppForBeacons\DesktopAppForBeacons\bin\Debug\ReverseMap\resources.pri">
+    <AppxPackagedFile Include="C:\Users\AHAYCOCK\Source\Repos\NearbyContentWindows\DesktopAppForBeacons\DesktopAppForBeacons\WinJS\css\ui-dark.css">
+      <PackagePath>WinJS\css\ui-dark.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\AHAYCOCK\Source\Repos\NearbyContentWindows\DesktopAppForBeacons\DesktopAppForBeacons\WinJS\css\ui-dark.min.css">
+      <PackagePath>WinJS\css\ui-dark.min.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\AHAYCOCK\Source\Repos\NearbyContentWindows\DesktopAppForBeacons\DesktopAppForBeacons\WinJS\css\ui-light.css">
+      <PackagePath>WinJS\css\ui-light.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\AHAYCOCK\Source\Repos\NearbyContentWindows\DesktopAppForBeacons\DesktopAppForBeacons\WinJS\css\ui-light.min.css">
+      <PackagePath>WinJS\css\ui-light.min.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\AHAYCOCK\Source\Repos\NearbyContentWindows\DesktopAppForBeacons\DesktopAppForBeacons\packages.config">
+      <PackagePath>packages.config</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\AHAYCOCK\Source\Repos\NearbyContentWindows\DesktopAppForBeacons\DesktopAppForBeacons\WinJS\fonts\Symbols.ttf">
+      <PackagePath>WinJS\fonts\Symbols.ttf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\AHAYCOCK\Source\Repos\NearbyContentWindows\DesktopAppForBeacons\DesktopAppForBeacons\WinJS\js\base.min.js.map">
+      <PackagePath>WinJS\js\base.min.js.map</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\AHAYCOCK\Source\Repos\NearbyContentWindows\DesktopAppForBeacons\DesktopAppForBeacons\WinJS\js\ui.min.js.map">
+      <PackagePath>WinJS\js\ui.min.js.map</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\AHAYCOCK\Source\Repos\NearbyContentWindows\DesktopAppForBeacons\DesktopAppForBeacons\WinJS\License.txt">
+      <PackagePath>WinJS\License.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\AHAYCOCK\Source\Repos\NearbyContentWindows\DesktopAppForBeacons\DesktopAppForBeacons\WinJS\README.md">
+      <PackagePath>WinJS\README.md</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\AHAYCOCK\Source\Repos\NearbyContentWindows\DesktopAppForBeacons\DesktopAppForBeacons\bin\Debug\ReverseMap\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>

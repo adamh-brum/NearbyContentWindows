@@ -13,6 +13,6 @@ C:\Program Files (x86)\Windows Kits\10\References\10.0.15063.0\Windows.Graphics.
 C:\Program Files (x86)\Windows Kits\10\References\10.0.15063.0\Windows.Services.TargetedContent.TargetedContentContract\1.0.0.0\Windows.Services.TargetedContent.TargetedContentContract.winmd
 -emitAnyForUnresolvedTypes
 -outFilePath
-c:\users\jharvey\source\repos\nearbycontentwindows\desktopappforbeacons\desktopappforbeacons\bld\debug\winrtrefs\winrtrefs-temp.d.ts
+c:\users\ahaycock\source\repos\nearbycontentwindows\desktopappforbeacons\desktopappforbeacons\bld\debug\winrtrefs\winrtrefs-temp.d.ts
 -emitDocumentation
 -suppressWarningsForUnresolvedWindowsTypes

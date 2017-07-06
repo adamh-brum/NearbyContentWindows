@@ -14,3 +14,19 @@ c:\users\jharvey\documents\visual studio 2017\Projects\DesktopAppForBeacons\Desk
 c:\users\jharvey\documents\visual studio 2017\Projects\DesktopAppForBeacons\DesktopAppForBeacons\bld\Debug\qualifiers.txt.intermediate
 c:\users\jharvey\documents\visual studio 2017\Projects\DesktopAppForBeacons\DesktopAppForBeacons\bld\Debug\MultipleQualifiersPerDimensionFound.txt
 c:\users\jharvey\documents\visual studio 2017\Projects\DesktopAppForBeacons\DesktopAppForBeacons\bld\Debug\ProjectArchitectures.txt
+C:\Users\AHAYCOCK\Source\Repos\NearbyContentWindows\DesktopAppForBeacons\DesktopAppForBeacons\bin\Debug\ReverseMap\resources.pri
+C:\Users\AHAYCOCK\Source\Repos\NearbyContentWindows\DesktopAppForBeacons\DesktopAppForBeacons\bin\Debug\AppxManifest.xml
+C:\Users\AHAYCOCK\Source\Repos\NearbyContentWindows\DesktopAppForBeacons\DesktopAppForBeacons\bin\Debug\DesktopAppForBeacons.build.appxrecipe
+C:\Users\AHAYCOCK\Source\Repos\NearbyContentWindows\DesktopAppForBeacons\DesktopAppForBeacons\bld\Debug\ResourceHandlingTask.state
+C:\Users\AHAYCOCK\Source\Repos\NearbyContentWindows\DesktopAppForBeacons\DesktopAppForBeacons\bld\Debug\priconfig.xml
+C:\Users\AHAYCOCK\Source\Repos\NearbyContentWindows\DesktopAppForBeacons\DesktopAppForBeacons\bld\Debug\priconfig.xml.intermediate
+C:\Users\AHAYCOCK\Source\Repos\NearbyContentWindows\DesktopAppForBeacons\DesktopAppForBeacons\bld\Debug\layout.resfiles
+C:\Users\AHAYCOCK\Source\Repos\NearbyContentWindows\DesktopAppForBeacons\DesktopAppForBeacons\bld\Debug\layout.resfiles.intermediate
+C:\Users\AHAYCOCK\Source\Repos\NearbyContentWindows\DesktopAppForBeacons\DesktopAppForBeacons\bld\Debug\resources.resfiles
+C:\Users\AHAYCOCK\Source\Repos\NearbyContentWindows\DesktopAppForBeacons\DesktopAppForBeacons\bld\Debug\resources.resfiles.intermediate
+C:\Users\AHAYCOCK\Source\Repos\NearbyContentWindows\DesktopAppForBeacons\DesktopAppForBeacons\bld\Debug\pri.resfiles
+C:\Users\AHAYCOCK\Source\Repos\NearbyContentWindows\DesktopAppForBeacons\DesktopAppForBeacons\bld\Debug\pri.resfiles.intermediate
+C:\Users\AHAYCOCK\Source\Repos\NearbyContentWindows\DesktopAppForBeacons\DesktopAppForBeacons\bld\Debug\qualifiers.txt
+C:\Users\AHAYCOCK\Source\Repos\NearbyContentWindows\DesktopAppForBeacons\DesktopAppForBeacons\bld\Debug\qualifiers.txt.intermediate
+C:\Users\AHAYCOCK\Source\Repos\NearbyContentWindows\DesktopAppForBeacons\DesktopAppForBeacons\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\AHAYCOCK\Source\Repos\NearbyContentWindows\DesktopAppForBeacons\DesktopAppForBeacons\bld\Debug\ProjectArchitectures.txt
