@@ -32,32 +32,32 @@
     <AppXManifest Include="C:\Users\AHAYCOCK\Source\Repos\NearbyContentWindows\DesktopAppForBeacons\DesktopAppForBeacons\bin\x64\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-07-12T10:25:59.360</Modified>
+      <Modified>2017-07-12T10:29:14.631</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\AHAYCOCK\Source\Repos\NearbyContentWindows\DesktopAppForBeacons\DesktopAppForBeacons\Content\bootstrap-theme.css">
-      <PackagePath>Content\bootstrap-theme.css</PackagePath>
+    <AppxPackagedFile Include="C:\Users\AHAYCOCK\Source\Repos\NearbyContentWindows\DesktopAppForBeacons\DesktopAppForBeacons\css\Bootstrap\bootstrap-theme.css">
+      <PackagePath>css\Bootstrap\bootstrap-theme.css</PackagePath>
       <Modified>2017-07-12T09:37:13.254</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\AHAYCOCK\Source\Repos\NearbyContentWindows\DesktopAppForBeacons\DesktopAppForBeacons\Content\bootstrap-theme.min.css">
-      <PackagePath>Content\bootstrap-theme.min.css</PackagePath>
+    <AppxPackagedFile Include="C:\Users\AHAYCOCK\Source\Repos\NearbyContentWindows\DesktopAppForBeacons\DesktopAppForBeacons\css\Bootstrap\bootstrap-theme.min.css">
+      <PackagePath>css\Bootstrap\bootstrap-theme.min.css</PackagePath>
       <Modified>2017-07-12T09:37:13.112</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\AHAYCOCK\Source\Repos\NearbyContentWindows\DesktopAppForBeacons\DesktopAppForBeacons\Content\bootstrap.css">
-      <PackagePath>Content\bootstrap.css</PackagePath>
+    <AppxPackagedFile Include="C:\Users\AHAYCOCK\Source\Repos\NearbyContentWindows\DesktopAppForBeacons\DesktopAppForBeacons\css\Bootstrap\bootstrap.css">
+      <PackagePath>css\Bootstrap\bootstrap.css</PackagePath>
       <Modified>2017-07-12T09:37:12.980</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\AHAYCOCK\Source\Repos\NearbyContentWindows\DesktopAppForBeacons\DesktopAppForBeacons\Content\bootstrap.min.css">
-      <PackagePath>Content\bootstrap.min.css</PackagePath>
+    <AppxPackagedFile Include="C:\Users\AHAYCOCK\Source\Repos\NearbyContentWindows\DesktopAppForBeacons\DesktopAppForBeacons\css\Bootstrap\bootstrap.min.css">
+      <PackagePath>css\Bootstrap\bootstrap.min.css</PackagePath>
       <Modified>2017-07-12T09:37:12.819</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\AHAYCOCK\Source\Repos\NearbyContentWindows\DesktopAppForBeacons\DesktopAppForBeacons\font-awesome-4.7.0\css\font-awesome.css">
-      <PackagePath>font-awesome-4.7.0\css\font-awesome.css</PackagePath>
+    <AppxPackagedFile Include="C:\Users\AHAYCOCK\Source\Repos\NearbyContentWindows\DesktopAppForBeacons\DesktopAppForBeacons\fonts\font-awesome-4.7.0\css\font-awesome.css">
+      <PackagePath>fonts\font-awesome-4.7.0\css\font-awesome.css</PackagePath>
       <Modified>2017-05-23T20:43:52.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\AHAYCOCK\Source\Repos\NearbyContentWindows\DesktopAppForBeacons\DesktopAppForBeacons\font-awesome-4.7.0\css\font-awesome.min.css">
-      <PackagePath>font-awesome-4.7.0\css\font-awesome.min.css</PackagePath>
+    <AppxPackagedFile Include="C:\Users\AHAYCOCK\Source\Repos\NearbyContentWindows\DesktopAppForBeacons\DesktopAppForBeacons\fonts\font-awesome-4.7.0\css\font-awesome.min.css">
+      <PackagePath>fonts\font-awesome-4.7.0\css\font-awesome.min.css</PackagePath>
       <Modified>2017-05-23T20:43:53.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\AHAYCOCK\Source\Repos\NearbyContentWindows\DesktopAppForBeacons\DesktopAppForBeacons\css\default.css">
@@ -84,20 +84,20 @@
       <PackagePath>WinJS\css\ui-light.min.css</PackagePath>
       <Modified>2017-07-06T11:49:44.613</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\AHAYCOCK\Source\Repos\NearbyContentWindows\DesktopAppForBeacons\DesktopAppForBeacons\Content\bootstrap-theme.css.map">
-      <PackagePath>Content\bootstrap-theme.css.map</PackagePath>
+    <AppxPackagedFile Include="C:\Users\AHAYCOCK\Source\Repos\NearbyContentWindows\DesktopAppForBeacons\DesktopAppForBeacons\css\Bootstrap\bootstrap-theme.css.map">
+      <PackagePath>css\Bootstrap\bootstrap-theme.css.map</PackagePath>
       <Modified>2017-07-12T09:37:13.174</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\AHAYCOCK\Source\Repos\NearbyContentWindows\DesktopAppForBeacons\DesktopAppForBeacons\Content\bootstrap-theme.min.css.map">
-      <PackagePath>Content\bootstrap-theme.min.css.map</PackagePath>
+    <AppxPackagedFile Include="C:\Users\AHAYCOCK\Source\Repos\NearbyContentWindows\DesktopAppForBeacons\DesktopAppForBeacons\css\Bootstrap\bootstrap-theme.min.css.map">
+      <PackagePath>css\Bootstrap\bootstrap-theme.min.css.map</PackagePath>
       <Modified>2017-07-12T09:37:13.049</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\AHAYCOCK\Source\Repos\NearbyContentWindows\DesktopAppForBeacons\DesktopAppForBeacons\Content\bootstrap.css.map">
-      <PackagePath>Content\bootstrap.css.map</PackagePath>
+    <AppxPackagedFile Include="C:\Users\AHAYCOCK\Source\Repos\NearbyContentWindows\DesktopAppForBeacons\DesktopAppForBeacons\css\Bootstrap\bootstrap.css.map">
+      <PackagePath>css\Bootstrap\bootstrap.css.map</PackagePath>
       <Modified>2017-07-12T09:37:12.914</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\AHAYCOCK\Source\Repos\NearbyContentWindows\DesktopAppForBeacons\DesktopAppForBeacons\Content\bootstrap.min.css.map">
-      <PackagePath>Content\bootstrap.min.css.map</PackagePath>
+    <AppxPackagedFile Include="C:\Users\AHAYCOCK\Source\Repos\NearbyContentWindows\DesktopAppForBeacons\DesktopAppForBeacons\css\Bootstrap\bootstrap.min.css.map">
+      <PackagePath>css\Bootstrap\bootstrap.min.css.map</PackagePath>
       <Modified>2017-07-12T09:37:12.724</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\AHAYCOCK\Source\Repos\NearbyContentWindows\DesktopAppForBeacons\DesktopAppForBeacons\Scripts\angular-animate.min.js.map">
@@ -160,24 +160,24 @@
       <PackagePath>WinJS\js\ui.min.js.map</PackagePath>
       <Modified>2017-07-06T11:49:43.365</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\AHAYCOCK\Source\Repos\NearbyContentWindows\DesktopAppForBeacons\DesktopAppForBeacons\font-awesome-4.7.0\fonts\fontawesome-webfont.eot">
-      <PackagePath>font-awesome-4.7.0\fonts\fontawesome-webfont.eot</PackagePath>
+    <AppxPackagedFile Include="C:\Users\AHAYCOCK\Source\Repos\NearbyContentWindows\DesktopAppForBeacons\DesktopAppForBeacons\fonts\font-awesome-4.7.0\fonts\fontawesome-webfont.eot">
+      <PackagePath>fonts\font-awesome-4.7.0\fonts\fontawesome-webfont.eot</PackagePath>
       <Modified>2017-05-23T20:43:52.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\AHAYCOCK\Source\Repos\NearbyContentWindows\DesktopAppForBeacons\DesktopAppForBeacons\fonts\glyphicons-halflings-regular.eot">
       <PackagePath>fonts\glyphicons-halflings-regular.eot</PackagePath>
       <Modified>2017-07-12T09:37:12.600</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\AHAYCOCK\Source\Repos\NearbyContentWindows\DesktopAppForBeacons\DesktopAppForBeacons\font-awesome-4.7.0\fonts\fontawesome-webfont.svg">
-      <PackagePath>font-awesome-4.7.0\fonts\fontawesome-webfont.svg</PackagePath>
+    <AppxPackagedFile Include="C:\Users\AHAYCOCK\Source\Repos\NearbyContentWindows\DesktopAppForBeacons\DesktopAppForBeacons\fonts\font-awesome-4.7.0\fonts\fontawesome-webfont.svg">
+      <PackagePath>fonts\font-awesome-4.7.0\fonts\fontawesome-webfont.svg</PackagePath>
       <Modified>2017-05-23T20:43:52.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\AHAYCOCK\Source\Repos\NearbyContentWindows\DesktopAppForBeacons\DesktopAppForBeacons\fonts\glyphicons-halflings-regular.svg">
       <PackagePath>fonts\glyphicons-halflings-regular.svg</PackagePath>
       <Modified>2017-07-12T09:37:12.486</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\AHAYCOCK\Source\Repos\NearbyContentWindows\DesktopAppForBeacons\DesktopAppForBeacons\font-awesome-4.7.0\fonts\fontawesome-webfont.ttf">
-      <PackagePath>font-awesome-4.7.0\fonts\fontawesome-webfont.ttf</PackagePath>
+    <AppxPackagedFile Include="C:\Users\AHAYCOCK\Source\Repos\NearbyContentWindows\DesktopAppForBeacons\DesktopAppForBeacons\fonts\font-awesome-4.7.0\fonts\fontawesome-webfont.ttf">
+      <PackagePath>fonts\font-awesome-4.7.0\fonts\fontawesome-webfont.ttf</PackagePath>
       <Modified>2017-05-23T20:43:52.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\AHAYCOCK\Source\Repos\NearbyContentWindows\DesktopAppForBeacons\DesktopAppForBeacons\fonts\glyphicons-halflings-regular.ttf">
@@ -188,149 +188,149 @@
       <PackagePath>WinJS\fonts\Symbols.ttf</PackagePath>
       <Modified>2017-07-06T11:49:44.384</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\AHAYCOCK\Source\Repos\NearbyContentWindows\DesktopAppForBeacons\DesktopAppForBeacons\font-awesome-4.7.0\fonts\fontawesome-webfont.woff">
-      <PackagePath>font-awesome-4.7.0\fonts\fontawesome-webfont.woff</PackagePath>
+    <AppxPackagedFile Include="C:\Users\AHAYCOCK\Source\Repos\NearbyContentWindows\DesktopAppForBeacons\DesktopAppForBeacons\fonts\font-awesome-4.7.0\fonts\fontawesome-webfont.woff">
+      <PackagePath>fonts\font-awesome-4.7.0\fonts\fontawesome-webfont.woff</PackagePath>
       <Modified>2017-05-23T20:43:52.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\AHAYCOCK\Source\Repos\NearbyContentWindows\DesktopAppForBeacons\DesktopAppForBeacons\fonts\glyphicons-halflings-regular.woff">
       <PackagePath>fonts\glyphicons-halflings-regular.woff</PackagePath>
       <Modified>2017-07-12T09:37:12.225</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\AHAYCOCK\Source\Repos\NearbyContentWindows\DesktopAppForBeacons\DesktopAppForBeacons\font-awesome-4.7.0\fonts\fontawesome-webfont.woff2">
-      <PackagePath>font-awesome-4.7.0\fonts\fontawesome-webfont.woff2</PackagePath>
+    <AppxPackagedFile Include="C:\Users\AHAYCOCK\Source\Repos\NearbyContentWindows\DesktopAppForBeacons\DesktopAppForBeacons\fonts\font-awesome-4.7.0\fonts\fontawesome-webfont.woff2">
+      <PackagePath>fonts\font-awesome-4.7.0\fonts\fontawesome-webfont.woff2</PackagePath>
       <Modified>2017-05-23T20:43:52.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\AHAYCOCK\Source\Repos\NearbyContentWindows\DesktopAppForBeacons\DesktopAppForBeacons\fonts\glyphicons-halflings-regular.woff2">
       <PackagePath>fonts\glyphicons-halflings-regular.woff2</PackagePath>
       <Modified>2017-07-12T09:37:12.055</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\AHAYCOCK\Source\Repos\NearbyContentWindows\DesktopAppForBeacons\DesktopAppForBeacons\font-awesome-4.7.0\fonts\FontAwesome.otf">
-      <PackagePath>font-awesome-4.7.0\fonts\FontAwesome.otf</PackagePath>
+    <AppxPackagedFile Include="C:\Users\AHAYCOCK\Source\Repos\NearbyContentWindows\DesktopAppForBeacons\DesktopAppForBeacons\fonts\font-awesome-4.7.0\fonts\FontAwesome.otf">
+      <PackagePath>fonts\font-awesome-4.7.0\fonts\FontAwesome.otf</PackagePath>
       <Modified>2017-05-23T20:43:52.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\AHAYCOCK\Source\Repos\NearbyContentWindows\DesktopAppForBeacons\DesktopAppForBeacons\font-awesome-4.7.0\HELP-US-OUT.txt">
-      <PackagePath>font-awesome-4.7.0\HELP-US-OUT.txt</PackagePath>
+    <AppxPackagedFile Include="C:\Users\AHAYCOCK\Source\Repos\NearbyContentWindows\DesktopAppForBeacons\DesktopAppForBeacons\fonts\font-awesome-4.7.0\HELP-US-OUT.txt">
+      <PackagePath>fonts\font-awesome-4.7.0\HELP-US-OUT.txt</PackagePath>
       <Modified>2017-05-23T20:43:52.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\AHAYCOCK\Source\Repos\NearbyContentWindows\DesktopAppForBeacons\DesktopAppForBeacons\WinJS\License.txt">
       <PackagePath>WinJS\License.txt</PackagePath>
       <Modified>2017-07-06T11:49:43.038</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\AHAYCOCK\Source\Repos\NearbyContentWindows\DesktopAppForBeacons\DesktopAppForBeacons\font-awesome-4.7.0\less\animated.less">
-      <PackagePath>font-awesome-4.7.0\less\animated.less</PackagePath>
+    <AppxPackagedFile Include="C:\Users\AHAYCOCK\Source\Repos\NearbyContentWindows\DesktopAppForBeacons\DesktopAppForBeacons\fonts\font-awesome-4.7.0\less\animated.less">
+      <PackagePath>fonts\font-awesome-4.7.0\less\animated.less</PackagePath>
       <Modified>2017-05-23T20:43:51.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\AHAYCOCK\Source\Repos\NearbyContentWindows\DesktopAppForBeacons\DesktopAppForBeacons\font-awesome-4.7.0\less\bordered-pulled.less">
-      <PackagePath>font-awesome-4.7.0\less\bordered-pulled.less</PackagePath>
+    <AppxPackagedFile Include="C:\Users\AHAYCOCK\Source\Repos\NearbyContentWindows\DesktopAppForBeacons\DesktopAppForBeacons\fonts\font-awesome-4.7.0\less\bordered-pulled.less">
+      <PackagePath>fonts\font-awesome-4.7.0\less\bordered-pulled.less</PackagePath>
       <Modified>2017-05-23T20:43:51.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\AHAYCOCK\Source\Repos\NearbyContentWindows\DesktopAppForBeacons\DesktopAppForBeacons\font-awesome-4.7.0\less\core.less">
-      <PackagePath>font-awesome-4.7.0\less\core.less</PackagePath>
+    <AppxPackagedFile Include="C:\Users\AHAYCOCK\Source\Repos\NearbyContentWindows\DesktopAppForBeacons\DesktopAppForBeacons\fonts\font-awesome-4.7.0\less\core.less">
+      <PackagePath>fonts\font-awesome-4.7.0\less\core.less</PackagePath>
       <Modified>2017-05-23T20:43:51.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\AHAYCOCK\Source\Repos\NearbyContentWindows\DesktopAppForBeacons\DesktopAppForBeacons\font-awesome-4.7.0\less\fixed-width.less">
-      <PackagePath>font-awesome-4.7.0\less\fixed-width.less</PackagePath>
+    <AppxPackagedFile Include="C:\Users\AHAYCOCK\Source\Repos\NearbyContentWindows\DesktopAppForBeacons\DesktopAppForBeacons\fonts\font-awesome-4.7.0\less\fixed-width.less">
+      <PackagePath>fonts\font-awesome-4.7.0\less\fixed-width.less</PackagePath>
       <Modified>2017-05-23T20:43:51.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\AHAYCOCK\Source\Repos\NearbyContentWindows\DesktopAppForBeacons\DesktopAppForBeacons\font-awesome-4.7.0\less\font-awesome.less">
-      <PackagePath>font-awesome-4.7.0\less\font-awesome.less</PackagePath>
+    <AppxPackagedFile Include="C:\Users\AHAYCOCK\Source\Repos\NearbyContentWindows\DesktopAppForBeacons\DesktopAppForBeacons\fonts\font-awesome-4.7.0\less\font-awesome.less">
+      <PackagePath>fonts\font-awesome-4.7.0\less\font-awesome.less</PackagePath>
       <Modified>2017-05-23T20:43:51.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\AHAYCOCK\Source\Repos\NearbyContentWindows\DesktopAppForBeacons\DesktopAppForBeacons\font-awesome-4.7.0\less\icons.less">
-      <PackagePath>font-awesome-4.7.0\less\icons.less</PackagePath>
+    <AppxPackagedFile Include="C:\Users\AHAYCOCK\Source\Repos\NearbyContentWindows\DesktopAppForBeacons\DesktopAppForBeacons\fonts\font-awesome-4.7.0\less\icons.less">
+      <PackagePath>fonts\font-awesome-4.7.0\less\icons.less</PackagePath>
       <Modified>2017-05-23T20:43:51.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\AHAYCOCK\Source\Repos\NearbyContentWindows\DesktopAppForBeacons\DesktopAppForBeacons\font-awesome-4.7.0\less\larger.less">
-      <PackagePath>font-awesome-4.7.0\less\larger.less</PackagePath>
+    <AppxPackagedFile Include="C:\Users\AHAYCOCK\Source\Repos\NearbyContentWindows\DesktopAppForBeacons\DesktopAppForBeacons\fonts\font-awesome-4.7.0\less\larger.less">
+      <PackagePath>fonts\font-awesome-4.7.0\less\larger.less</PackagePath>
       <Modified>2017-05-23T20:43:51.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\AHAYCOCK\Source\Repos\NearbyContentWindows\DesktopAppForBeacons\DesktopAppForBeacons\font-awesome-4.7.0\less\list.less">
-      <PackagePath>font-awesome-4.7.0\less\list.less</PackagePath>
+    <AppxPackagedFile Include="C:\Users\AHAYCOCK\Source\Repos\NearbyContentWindows\DesktopAppForBeacons\DesktopAppForBeacons\fonts\font-awesome-4.7.0\less\list.less">
+      <PackagePath>fonts\font-awesome-4.7.0\less\list.less</PackagePath>
       <Modified>2017-05-23T20:43:51.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\AHAYCOCK\Source\Repos\NearbyContentWindows\DesktopAppForBeacons\DesktopAppForBeacons\font-awesome-4.7.0\less\mixins.less">
-      <PackagePath>font-awesome-4.7.0\less\mixins.less</PackagePath>
+    <AppxPackagedFile Include="C:\Users\AHAYCOCK\Source\Repos\NearbyContentWindows\DesktopAppForBeacons\DesktopAppForBeacons\fonts\font-awesome-4.7.0\less\mixins.less">
+      <PackagePath>fonts\font-awesome-4.7.0\less\mixins.less</PackagePath>
       <Modified>2017-05-23T20:43:51.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\AHAYCOCK\Source\Repos\NearbyContentWindows\DesktopAppForBeacons\DesktopAppForBeacons\font-awesome-4.7.0\less\path.less">
-      <PackagePath>font-awesome-4.7.0\less\path.less</PackagePath>
+    <AppxPackagedFile Include="C:\Users\AHAYCOCK\Source\Repos\NearbyContentWindows\DesktopAppForBeacons\DesktopAppForBeacons\fonts\font-awesome-4.7.0\less\path.less">
+      <PackagePath>fonts\font-awesome-4.7.0\less\path.less</PackagePath>
       <Modified>2017-05-23T20:43:52.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\AHAYCOCK\Source\Repos\NearbyContentWindows\DesktopAppForBeacons\DesktopAppForBeacons\font-awesome-4.7.0\less\rotated-flipped.less">
-      <PackagePath>font-awesome-4.7.0\less\rotated-flipped.less</PackagePath>
+    <AppxPackagedFile Include="C:\Users\AHAYCOCK\Source\Repos\NearbyContentWindows\DesktopAppForBeacons\DesktopAppForBeacons\fonts\font-awesome-4.7.0\less\rotated-flipped.less">
+      <PackagePath>fonts\font-awesome-4.7.0\less\rotated-flipped.less</PackagePath>
       <Modified>2017-05-23T20:43:51.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\AHAYCOCK\Source\Repos\NearbyContentWindows\DesktopAppForBeacons\DesktopAppForBeacons\font-awesome-4.7.0\less\screen-reader.less">
-      <PackagePath>font-awesome-4.7.0\less\screen-reader.less</PackagePath>
+    <AppxPackagedFile Include="C:\Users\AHAYCOCK\Source\Repos\NearbyContentWindows\DesktopAppForBeacons\DesktopAppForBeacons\fonts\font-awesome-4.7.0\less\screen-reader.less">
+      <PackagePath>fonts\font-awesome-4.7.0\less\screen-reader.less</PackagePath>
       <Modified>2017-05-23T20:43:52.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\AHAYCOCK\Source\Repos\NearbyContentWindows\DesktopAppForBeacons\DesktopAppForBeacons\font-awesome-4.7.0\less\stacked.less">
-      <PackagePath>font-awesome-4.7.0\less\stacked.less</PackagePath>
+    <AppxPackagedFile Include="C:\Users\AHAYCOCK\Source\Repos\NearbyContentWindows\DesktopAppForBeacons\DesktopAppForBeacons\fonts\font-awesome-4.7.0\less\stacked.less">
+      <PackagePath>fonts\font-awesome-4.7.0\less\stacked.less</PackagePath>
       <Modified>2017-05-23T20:43:51.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\AHAYCOCK\Source\Repos\NearbyContentWindows\DesktopAppForBeacons\DesktopAppForBeacons\font-awesome-4.7.0\less\variables.less">
-      <PackagePath>font-awesome-4.7.0\less\variables.less</PackagePath>
+    <AppxPackagedFile Include="C:\Users\AHAYCOCK\Source\Repos\NearbyContentWindows\DesktopAppForBeacons\DesktopAppForBeacons\fonts\font-awesome-4.7.0\less\variables.less">
+      <PackagePath>fonts\font-awesome-4.7.0\less\variables.less</PackagePath>
       <Modified>2017-05-23T20:43:51.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\AHAYCOCK\Source\Repos\NearbyContentWindows\DesktopAppForBeacons\DesktopAppForBeacons\font-awesome-4.7.0\scss\font-awesome.scss">
-      <PackagePath>font-awesome-4.7.0\scss\font-awesome.scss</PackagePath>
+    <AppxPackagedFile Include="C:\Users\AHAYCOCK\Source\Repos\NearbyContentWindows\DesktopAppForBeacons\DesktopAppForBeacons\fonts\font-awesome-4.7.0\scss\font-awesome.scss">
+      <PackagePath>fonts\font-awesome-4.7.0\scss\font-awesome.scss</PackagePath>
       <Modified>2017-05-23T20:43:51.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\AHAYCOCK\Source\Repos\NearbyContentWindows\DesktopAppForBeacons\DesktopAppForBeacons\font-awesome-4.7.0\scss\_animated.scss">
-      <PackagePath>font-awesome-4.7.0\scss\_animated.scss</PackagePath>
+    <AppxPackagedFile Include="C:\Users\AHAYCOCK\Source\Repos\NearbyContentWindows\DesktopAppForBeacons\DesktopAppForBeacons\fonts\font-awesome-4.7.0\scss\_animated.scss">
+      <PackagePath>fonts\font-awesome-4.7.0\scss\_animated.scss</PackagePath>
       <Modified>2017-05-23T20:43:51.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\AHAYCOCK\Source\Repos\NearbyContentWindows\DesktopAppForBeacons\DesktopAppForBeacons\font-awesome-4.7.0\scss\_bordered-pulled.scss">
-      <PackagePath>font-awesome-4.7.0\scss\_bordered-pulled.scss</PackagePath>
+    <AppxPackagedFile Include="C:\Users\AHAYCOCK\Source\Repos\NearbyContentWindows\DesktopAppForBeacons\DesktopAppForBeacons\fonts\font-awesome-4.7.0\scss\_bordered-pulled.scss">
+      <PackagePath>fonts\font-awesome-4.7.0\scss\_bordered-pulled.scss</PackagePath>
       <Modified>2017-05-23T20:43:51.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\AHAYCOCK\Source\Repos\NearbyContentWindows\DesktopAppForBeacons\DesktopAppForBeacons\font-awesome-4.7.0\scss\_core.scss">
-      <PackagePath>font-awesome-4.7.0\scss\_core.scss</PackagePath>
+    <AppxPackagedFile Include="C:\Users\AHAYCOCK\Source\Repos\NearbyContentWindows\DesktopAppForBeacons\DesktopAppForBeacons\fonts\font-awesome-4.7.0\scss\_core.scss">
+      <PackagePath>fonts\font-awesome-4.7.0\scss\_core.scss</PackagePath>
       <Modified>2017-05-23T20:43:51.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\AHAYCOCK\Source\Repos\NearbyContentWindows\DesktopAppForBeacons\DesktopAppForBeacons\font-awesome-4.7.0\scss\_fixed-width.scss">
-      <PackagePath>font-awesome-4.7.0\scss\_fixed-width.scss</PackagePath>
+    <AppxPackagedFile Include="C:\Users\AHAYCOCK\Source\Repos\NearbyContentWindows\DesktopAppForBeacons\DesktopAppForBeacons\fonts\font-awesome-4.7.0\scss\_fixed-width.scss">
+      <PackagePath>fonts\font-awesome-4.7.0\scss\_fixed-width.scss</PackagePath>
       <Modified>2017-05-23T20:43:51.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\AHAYCOCK\Source\Repos\NearbyContentWindows\DesktopAppForBeacons\DesktopAppForBeacons\font-awesome-4.7.0\scss\_icons.scss">
-      <PackagePath>font-awesome-4.7.0\scss\_icons.scss</PackagePath>
+    <AppxPackagedFile Include="C:\Users\AHAYCOCK\Source\Repos\NearbyContentWindows\DesktopAppForBeacons\DesktopAppForBeacons\fonts\font-awesome-4.7.0\scss\_icons.scss">
+      <PackagePath>fonts\font-awesome-4.7.0\scss\_icons.scss</PackagePath>
       <Modified>2017-05-23T20:43:51.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\AHAYCOCK\Source\Repos\NearbyContentWindows\DesktopAppForBeacons\DesktopAppForBeacons\font-awesome-4.7.0\scss\_larger.scss">
-      <PackagePath>font-awesome-4.7.0\scss\_larger.scss</PackagePath>
+    <AppxPackagedFile Include="C:\Users\AHAYCOCK\Source\Repos\NearbyContentWindows\DesktopAppForBeacons\DesktopAppForBeacons\fonts\font-awesome-4.7.0\scss\_larger.scss">
+      <PackagePath>fonts\font-awesome-4.7.0\scss\_larger.scss</PackagePath>
       <Modified>2017-05-23T20:43:51.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\AHAYCOCK\Source\Repos\NearbyContentWindows\DesktopAppForBeacons\DesktopAppForBeacons\font-awesome-4.7.0\scss\_list.scss">
-      <PackagePath>font-awesome-4.7.0\scss\_list.scss</PackagePath>
+    <AppxPackagedFile Include="C:\Users\AHAYCOCK\Source\Repos\NearbyContentWindows\DesktopAppForBeacons\DesktopAppForBeacons\fonts\font-awesome-4.7.0\scss\_list.scss">
+      <PackagePath>fonts\font-awesome-4.7.0\scss\_list.scss</PackagePath>
       <Modified>2017-05-23T20:43:51.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\AHAYCOCK\Source\Repos\NearbyContentWindows\DesktopAppForBeacons\DesktopAppForBeacons\font-awesome-4.7.0\scss\_mixins.scss">
-      <PackagePath>font-awesome-4.7.0\scss\_mixins.scss</PackagePath>
+    <AppxPackagedFile Include="C:\Users\AHAYCOCK\Source\Repos\NearbyContentWindows\DesktopAppForBeacons\DesktopAppForBeacons\fonts\font-awesome-4.7.0\scss\_mixins.scss">
+      <PackagePath>fonts\font-awesome-4.7.0\scss\_mixins.scss</PackagePath>
       <Modified>2017-05-23T20:43:51.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\AHAYCOCK\Source\Repos\NearbyContentWindows\DesktopAppForBeacons\DesktopAppForBeacons\font-awesome-4.7.0\scss\_path.scss">
-      <PackagePath>font-awesome-4.7.0\scss\_path.scss</PackagePath>
+    <AppxPackagedFile Include="C:\Users\AHAYCOCK\Source\Repos\NearbyContentWindows\DesktopAppForBeacons\DesktopAppForBeacons\fonts\font-awesome-4.7.0\scss\_path.scss">
+      <PackagePath>fonts\font-awesome-4.7.0\scss\_path.scss</PackagePath>
       <Modified>2017-05-23T20:43:52.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\AHAYCOCK\Source\Repos\NearbyContentWindows\DesktopAppForBeacons\DesktopAppForBeacons\font-awesome-4.7.0\scss\_rotated-flipped.scss">
-      <PackagePath>font-awesome-4.7.0\scss\_rotated-flipped.scss</PackagePath>
+    <AppxPackagedFile Include="C:\Users\AHAYCOCK\Source\Repos\NearbyContentWindows\DesktopAppForBeacons\DesktopAppForBeacons\fonts\font-awesome-4.7.0\scss\_rotated-flipped.scss">
+      <PackagePath>fonts\font-awesome-4.7.0\scss\_rotated-flipped.scss</PackagePath>
       <Modified>2017-05-23T20:43:51.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\AHAYCOCK\Source\Repos\NearbyContentWindows\DesktopAppForBeacons\DesktopAppForBeacons\font-awesome-4.7.0\scss\_screen-reader.scss">
-      <PackagePath>font-awesome-4.7.0\scss\_screen-reader.scss</PackagePath>
+    <AppxPackagedFile Include="C:\Users\AHAYCOCK\Source\Repos\NearbyContentWindows\DesktopAppForBeacons\DesktopAppForBeacons\fonts\font-awesome-4.7.0\scss\_screen-reader.scss">
+      <PackagePath>fonts\font-awesome-4.7.0\scss\_screen-reader.scss</PackagePath>
       <Modified>2017-05-23T20:43:52.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\AHAYCOCK\Source\Repos\NearbyContentWindows\DesktopAppForBeacons\DesktopAppForBeacons\font-awesome-4.7.0\scss\_stacked.scss">
-      <PackagePath>font-awesome-4.7.0\scss\_stacked.scss</PackagePath>
+    <AppxPackagedFile Include="C:\Users\AHAYCOCK\Source\Repos\NearbyContentWindows\DesktopAppForBeacons\DesktopAppForBeacons\fonts\font-awesome-4.7.0\scss\_stacked.scss">
+      <PackagePath>fonts\font-awesome-4.7.0\scss\_stacked.scss</PackagePath>
       <Modified>2017-05-23T20:43:51.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\AHAYCOCK\Source\Repos\NearbyContentWindows\DesktopAppForBeacons\DesktopAppForBeacons\font-awesome-4.7.0\scss\_variables.scss">
-      <PackagePath>font-awesome-4.7.0\scss\_variables.scss</PackagePath>
+    <AppxPackagedFile Include="C:\Users\AHAYCOCK\Source\Repos\NearbyContentWindows\DesktopAppForBeacons\DesktopAppForBeacons\fonts\font-awesome-4.7.0\scss\_variables.scss">
+      <PackagePath>fonts\font-awesome-4.7.0\scss\_variables.scss</PackagePath>
       <Modified>2017-05-23T20:43:51.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\AHAYCOCK\Source\Repos\NearbyContentWindows\DesktopAppForBeacons\DesktopAppForBeacons\index.html">
       <PackagePath>index.html</PackagePath>
-      <Modified>2017-07-12T10:07:23.218</Modified>
+      <Modified>2017-07-12T10:29:03.453</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\AHAYCOCK\Source\Repos\NearbyContentWindows\DesktopAppForBeacons\DesktopAppForBeacons\images\LockScreenLogo.scale-200.png">
       <PackagePath>images\LockScreenLogo.scale-200.png</PackagePath>
@@ -473,6 +473,10 @@
     <AppxPackagedFile Include="C:\Users\AHAYCOCK\Source\Repos\NearbyContentWindows\DesktopAppForBeacons\DesktopAppForBeacons\Scripts\angular.min.js">
       <PackagePath>Scripts\angular.min.js</PackagePath>
       <Modified>2017-07-12T09:41:02.890</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\AHAYCOCK\Source\Repos\NearbyContentWindows\DesktopAppForBeacons\DesktopAppForBeacons\Scripts\Axios\axios.min.js">
+      <PackagePath>Scripts\Axios\axios.min.js</PackagePath>
+      <Modified>2017-07-12T10:09:21.833</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\AHAYCOCK\Source\Repos\NearbyContentWindows\DesktopAppForBeacons\DesktopAppForBeacons\Scripts\bootstrap.js">
       <PackagePath>Scripts\bootstrap.js</PackagePath>
@@ -3457,7 +3461,7 @@
     <AppxPackagedFile Include="C:\Users\AHAYCOCK\Source\Repos\NearbyContentWindows\DesktopAppForBeacons\DesktopAppForBeacons\bin\x64\Debug\ReverseMap\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-07-12T10:06:47.676</Modified>
+      <Modified>2017-07-12T10:29:14.355</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
