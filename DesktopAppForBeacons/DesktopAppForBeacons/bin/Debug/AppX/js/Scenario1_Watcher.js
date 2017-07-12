@@ -13,8 +13,6 @@
     // We will not configure the watcher at all, meaning all advertisements will be recieved (no filter).
     var watcher = new Windows.Devices.Bluetooth.Advertisement.BluetoothLEAdvertisementWatcher();
 
-    var test = 0;
-
     var page = WinJS.UI.Pages.define("../Scenario1_Watcher.html", {
         ready: function (element, options) {
             document.getElementById("runButton").addEventListener("click", onRunButtonClick, false);
@@ -27,12 +25,6 @@
             // Attach a handler to process watcher stopping due to various conditions,
             // such as the Bluetooth radio turning off or the Stop method was called
             watcher.addEventListener("stopped", onAdvertisementWatcherStopped, false);
-
-            // Attach handlers for suspension to stop the watcher when the App is suspended.
-            Windows.UI.WebUI.WebUIApplication.addEventListener("suspending", onSuspending, false);
-            Windows.UI.WebUI.WebUIApplication.addEventListener("resuming", onResuming, false);
-
-            WinJS.log && WinJS.log("Press Run to start watcher.", "sample", "status");
         },
         unload: function (element, options) {
             // Remove local suspension handlers from the App since this page is no longer active.
@@ -46,35 +38,8 @@
             // Always unregister the handlers to release the resources to prevent leaks.
             watcher.removeEventListener("received", onAdvertisementReceived);
             watcher.removeEventListener("stopped", onAdvertisementWatcherStopped);
-
-            WinJS.log && WinJS.log("Navigating away. Watcher stopped.", "sample", "status");
         }
     });
-
-    /// <summary>
-    /// Invoked when application execution is being suspended.  Application state is saved
-    /// without knowing whether the application will be terminated or resumed with the contents
-    /// of memory still intact.
-    /// </summary>
-    /// <param name="args">Details about the suspend request.</param>
-    function onSuspending(args) {
-        // Make sure to stop the watcher on suspend.
-        watcher.stop();
-        // Always unregister the handlers to release the resources to prevent leaks.
-        watcher.removeEventListener("received", onAdvertisementReceived);
-        watcher.removeEventListener("stopped", onAdvertisementWatcherStopped);
-
-        WinJS.log && WinJS.log("App suspending. Watcher stopped.", "sample", "status");
-    }
-
-    /// <summary>
-    /// Invoked when application execution is being resumed.
-    /// </summary>
-    /// <param name="args"></param>
-    function onResuming(args) {
-        watcher.addEventListener("received", onAdvertisementReceived, false);
-        watcher.addEventListener("stopped", onAdvertisementWatcherStopped, false);
-    }
 
     /// <summary>
     /// Invoked as an event handler when the Run button is pressed.

@@ -8,6 +8,7 @@ images\StoreLogo.png
 images\Wide310x150Logo.scale-200.png
 index.html
 js\BackgroundWatcher.js
+js\Foreground_GetMessagesFromNearbyBeacons.js
 js\main.js
 js\Scenario1_Watcher.js
 packages.config

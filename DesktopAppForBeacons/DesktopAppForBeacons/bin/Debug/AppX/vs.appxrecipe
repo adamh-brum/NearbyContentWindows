@@ -32,17 +32,17 @@
     <AppXManifest Include="C:\Users\AHAYCOCK\Source\Repos\NearbyContentWindows\DesktopAppForBeacons\DesktopAppForBeacons\bin\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-07-06T12:15:24.822</Modified>
+      <Modified>2017-07-07T12:40:23.528</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\AHAYCOCK\Source\Repos\NearbyContentWindows\DesktopAppForBeacons\DesktopAppForBeacons\index.html">
       <PackagePath>index.html</PackagePath>
-      <Modified>2017-07-06T11:51:14.278</Modified>
+      <Modified>2017-07-06T13:00:03.474</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\AHAYCOCK\Source\Repos\NearbyContentWindows\DesktopAppForBeacons\DesktopAppForBeacons\Scenario1_Watcher.html">
       <PackagePath>Scenario1_Watcher.html</PackagePath>
-      <Modified>2017-07-06T11:51:27.420</Modified>
+      <Modified>2017-07-06T12:48:22.455</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\AHAYCOCK\Source\Repos\NearbyContentWindows\DesktopAppForBeacons\DesktopAppForBeacons\images\LockScreenLogo.scale-200.png">
       <PackagePath>images\LockScreenLogo.scale-200.png</PackagePath>
@@ -82,13 +82,17 @@
       <PackagePath>js\BackgroundWatcher.js</PackagePath>
       <Modified>2017-07-06T11:32:33.746</Modified>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\AHAYCOCK\Source\Repos\NearbyContentWindows\DesktopAppForBeacons\DesktopAppForBeacons\js\Foreground_GetMessagesFromNearbyBeacons.js">
+      <PackagePath>js\Foreground_GetMessagesFromNearbyBeacons.js</PackagePath>
+      <Modified>2017-07-06T13:08:16.334</Modified>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\AHAYCOCK\Source\Repos\NearbyContentWindows\DesktopAppForBeacons\DesktopAppForBeacons\js\main.js">
       <PackagePath>js\main.js</PackagePath>
       <Modified>2017-07-06T11:32:33.747</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\AHAYCOCK\Source\Repos\NearbyContentWindows\DesktopAppForBeacons\DesktopAppForBeacons\js\Scenario1_Watcher.js">
       <PackagePath>js\Scenario1_Watcher.js</PackagePath>
-      <Modified>2017-07-06T12:00:04.790</Modified>
+      <Modified>2017-07-07T12:39:31.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\AHAYCOCK\Source\Repos\NearbyContentWindows\DesktopAppForBeacons\DesktopAppForBeacons\WinJS\js\base.js">
       <PackagePath>WinJS\js\base.js</PackagePath>
@@ -165,7 +169,7 @@
     <AppxPackagedFile Include="C:\Users\AHAYCOCK\Source\Repos\NearbyContentWindows\DesktopAppForBeacons\DesktopAppForBeacons\bin\Debug\ReverseMap\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-07-06T12:15:24.723</Modified>
+      <Modified>2017-07-07T12:40:23.434</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

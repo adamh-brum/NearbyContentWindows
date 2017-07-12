@@ -61,6 +61,9 @@
     <AppxPackagedFile Include="C:\Users\AHAYCOCK\Source\Repos\NearbyContentWindows\DesktopAppForBeacons\DesktopAppForBeacons\js\BackgroundWatcher.js">
       <PackagePath>js\BackgroundWatcher.js</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\AHAYCOCK\Source\Repos\NearbyContentWindows\DesktopAppForBeacons\DesktopAppForBeacons\js\Foreground_GetMessagesFromNearbyBeacons.js">
+      <PackagePath>js\Foreground_GetMessagesFromNearbyBeacons.js</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\AHAYCOCK\Source\Repos\NearbyContentWindows\DesktopAppForBeacons\DesktopAppForBeacons\js\main.js">
       <PackagePath>js\main.js</PackagePath>
     </AppxPackagedFile>
