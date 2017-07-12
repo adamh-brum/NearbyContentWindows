@@ -1,5 +1,117 @@
-﻿body {
-  /* Uncomment this to enable scrolling and zooming
-  touch-action: manipulation;
-  */
+﻿.branded-header {
+    z-index: 2;
+    height: 3.5em;
+    margin-top: 0.5em;
+    width: 100%;
+    background-color: white;
+    display: block;
+}
+
+    .branded-header h1 {
+        font-size: 20px;
+        min-height: 5em;
+    }
+
+    .branded-header img {
+        z-index: 2;
+        border-radius: 15px;
+        max-height: 4.5em;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        margin-bottom: 10px;
+    }
+
+.messages-container {
+    background-color: rgba(177, 179, 180, 0.27);
+    height: 100%;
+    padding: 20px 10px 30px 10px;
+    overflow-y: scroll;
+}
+
+.message {
+    margin-top: 10px;
+    display: inline-block;
+    width: 100%;
+    padding: 20px;
+    border-radius: 5px;
+    color: white;
+    background-color: rgba(0, 152, 204, 1);
+}
+
+.message-intro {
+    margin: 10px;
+    border-bottom: 2px solid white;
+}
+
+.message-content {
+    margin: 10px;
+    border-bottom: 2px solid white;
+}
+
+    .message-content p {
+        margin: 3px;
+    }
+
+.tag {
+    margin: 10px;
+    padding: 3px;
+    border-radius: 20px;
+    color: rgba(0, 152, 204, 1);
+    background-color: white;
+    width: auto;
+    display: inline-block;
+}
+
+.ratings-link {
+    padding: 10px;
+    float: right;
+}
+
+.message-intro h1 {
+    font-size: 30px;
+    margin: 3px;
+    padding: 3px;
+}
+
+.message-intro h2 {
+    font-size: 24px;
+    margin: 3px;
+    padding: 3px;
+}
+
+.message-intro h3 {
+    margin: 3px;
+    padding: 3px;
+    font-size: 18px;
+}
+
+.message-intro h4 {
+    font-size: 16px;
+    margin: 3px;
+    padding: 3px;
+}
+
+.message-content h1 {
+    font-size: 30px;
+    margin: 3px;
+    padding: 3px;
+}
+
+.message-content h2 {
+    font-size: 24px;
+    margin: 3px;
+    padding: 3px;
+}
+
+.message-content h3 {
+    margin: 3px;
+    padding: 3px;
+    font-size: 18px;
+}
+
+.message-content h4 {
+    font-size: 16px;
+    margin: 3px;
+    padding: 3px;
 }
