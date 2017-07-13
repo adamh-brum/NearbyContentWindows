@@ -3,8 +3,8 @@
   <Identity Name="cd394e44-8c45-4e49-a7a6-10b0f92e18a9" Version="1.0.0.0" Publisher="CN=JHARVEY" />
   <mp:PhoneIdentity PhoneProductId="cd394e44-8c45-4e49-a7a6-10b0f92e18a9" PhonePublisherId="00000000-0000-0000-0000-000000000000" />
   <Properties>
-    <DisplayName>DesktopAppForBeacons</DisplayName>
-    <PublisherDisplayName>JHARVEY</PublisherDisplayName>
+    <DisplayName>Capgemini Messages</DisplayName>
+    <PublisherDisplayName>Capgemini Public Sector - Microsoft Delivery Group</PublisherDisplayName>
     <Logo>images\storelogo.png</Logo>
   </Properties>
   <Dependencies>
@@ -16,14 +16,22 @@
   <Applications>
     <Application Id="App" StartPage="index.html">
       <Extensions>
-      <Extension Category="windows.backgroundTasks" StartPage="js\BackgroundWatcher.js">
-        <BackgroundTasks>
-          <Task Type="bluetooth"/>
-        </BackgroundTasks>
-      </Extension>
+        <Extension Category="windows.backgroundTasks" StartPage="js\BackgroundWatcher.js">
+          <BackgroundTasks>
+            <Task Type="pushNotification" />
+            <Task Type="location" />
+            <Task Type="bluetooth" />
+          </BackgroundTasks>
+        </Extension>
       </Extensions>
-      <uap:VisualElements DisplayName="DesktopAppForBeacons" Description="DesktopAppForBeacons" BackgroundColor="transparent" Square150x150Logo="images\Square150x150Logo.png" Square44x44Logo="images\Square44x44Logo.png">
-        <uap:DefaultTile Wide310x150Logo="images\Wide310x150Logo.png">
+      <uap:VisualElements DisplayName="Capgemini Messages" Description="Displays messages that are broadcast by beacons near to the device in use." BackgroundColor="transparent" Square150x150Logo="images\Square150x150Logo.png" Square44x44Logo="images\Square44x44Logo.png">
+        <uap:LockScreen Notification="badgeAndTileText" BadgeLogo="images\BadgeLogo.png" />
+        <uap:DefaultTile Wide310x150Logo="images\Wide310x150Logo.png" ShortName="Messages" Square310x310Logo="images\LargeTile.png" Square71x71Logo="images\SmallTile.png">
+          <uap:ShowNameOnTiles>
+            <uap:ShowOn Tile="square150x150Logo" />
+            <uap:ShowOn Tile="wide310x150Logo" />
+            <uap:ShowOn Tile="square310x310Logo" />
+          </uap:ShowNameOnTiles>
         </uap:DefaultTile>
         <uap:SplashScreen Image="images\splashscreen.png" />
       </uap:VisualElements>

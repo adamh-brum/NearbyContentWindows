@@ -22,11 +22,19 @@
         margin-bottom: 10px;
     }
 
+.refreshButton {
+    color: rgba(0, 152, 204, 1);
+    padding-top: 5px;
+    padding-left: 5px;
+    float: left;
+    display: inline-block;
+}
+
 .messages-container {
     background-color: rgba(177, 179, 180, 0.27);
     height: 100%;
     padding: 20px 10px 30px 10px;
-    overflow-y: scroll;
+    overflow-y: auto;
 }
 
 .message {
@@ -54,8 +62,8 @@
     }
 
 .tag {
-    margin: 10px;
-    padding: 3px;
+    margin: 1px;
+    padding: 5px;
     border-radius: 20px;
     color: rgba(0, 152, 204, 1);
     background-color: white;
@@ -66,6 +74,7 @@
 .ratings-link {
     padding: 10px;
     float: right;
+    color: white;
 }
 
 .message-intro h1 {

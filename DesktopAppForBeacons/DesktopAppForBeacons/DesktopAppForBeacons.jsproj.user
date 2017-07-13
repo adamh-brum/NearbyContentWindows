@@ -3,4 +3,15 @@
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
     <DebuggerFlavor>AppHostLocalDebugger</DebuggerFlavor>
   </PropertyGroup>
+  <PropertyGroup>
+    <Source>C:\Users\AHAYCOCK\Pictures\Capgemini.jpg</Source>
+    <SmallTileSource>C:\Users\AHAYCOCK\Pictures\Capgemini.jpg</SmallTileSource>
+    <MediumTileSource>C:\Users\AHAYCOCK\Pictures\Capgemini.jpg</MediumTileSource>
+    <WideTileSource>C:\Users\AHAYCOCK\Pictures\Capgemini.jpg</WideTileSource>
+    <LargeTileSource>C:\Users\AHAYCOCK\Pictures\Capgemini.jpg</LargeTileSource>
+    <AppIconSource>C:\Users\AHAYCOCK\Pictures\Capgemini.jpg</AppIconSource>
+    <SplashScreenSource>C:\Users\AHAYCOCK\Pictures\cg-living-future.png</SplashScreenSource>
+    <BadgeLogoSource>C:\Users\AHAYCOCK\Pictures\Capgemini.jpg</BadgeLogoSource>
+    <PackageLogoSource>C:\Users\AHAYCOCK\Pictures\Capgemini.jpg</PackageLogoSource>
+  </PropertyGroup>
 </Project>

@@ -2,7 +2,7 @@
 <html>
 <head>
     <meta charset="utf-8" />
-    <title>DesktopAppForBeacons</title>
+    <title>Capgemini Messages</title>
 
     <link href="css/default.css" rel="stylesheet" />
     <link href="css/Bootstrap/bootstrap.css" rel="stylesheet" />
@@ -12,82 +12,17 @@
 
     <script src="Scripts/jquery-1.9.1.js"></script>
     <script src="Scripts/bootstrap.js"></script>
-    <script src="Scripts/angular.js"></script>
+    <script src="Scripts/angular.min.js"></script>
     <script src="Scripts/Axios/axios.min.js"></script>
 </head>
 <body>
     <div class="branded-header">
+        <a id="refresh" class="refreshButton">
+            <i class="fa fa-2x fa-refresh" aria-hidden="true"></i>
+        </a>
         <img src="images/logo.jpg" />
     </div>
-    <div class="messages-container">
-        <div class="message">
-            <div class="tags-container">
-                <div class="tag">Charity</div>
-            </div>
-            <div class="message-intro">
-                <h2>Bake Sale this Week</h2>
-                <h3>Beacon: Jo's Awesome Desk</h3>
-            </div>
-            <div class="message-content">
-                <p>Come down to the bake sale in @Phoenix on 14/07/2017</p>
-            </div>
-            <div class="ratings-container">
-                <div class="ratings-link">
-                    <i class="fa fa-2x fa-thumbs-up" aria-hidden="true"></i>
-                </div>
-                <div class="ratings-link">
-                    <i class="fa fa-2x fa-thumbs-o-down" aria-hidden="true"></i>
-                </div>
-            </div>
-        </div>
-        <div class="message">
-            <div class="tags-container">
-                <div class="tag">Accommodation</div>
-                <div class="tag">@Phoenix</div>
-            </div>
-            <div class="message-intro">
-                <h2>Save Route Changed</h2>
-                <h3>Beacon: @Phoenix 2.2</h3>
-            </div>
-            <div class="message-content">
-                <p>The safe route has now changed<i class="fa fa-exclamation-triangle" aria-hidden="true"></i></p>
-                <p>To reach the car park, please use the canteen staircase at the rear of the building.</p>
-            </div>
-            <div class="ratings-container">
-                <div class="ratings-link">
-                    <i class="fa fa-2x fa-thumbs-o-up" aria-hidden="true"></i>
-                </div>
-                <div class="ratings-link">
-                    <i class="fa fa-2x fa-thumbs-down" aria-hidden="true"></i>
-                </div>
-            </div>
-        </div>
-        <div class="message">
-            <div class="tags-container">
-                <div class="tag">DDG</div>
-            </div>
-            <div class="message-intro">
-                <h2>Daily Stand Up Tips</h2>
-                <h3>Beacon: DDG Stand Up Zone</h3>
-            </div>
-            <div class="message-content">
-                <p>Welcome to the DDG Stand Up Zone. Some tips for a successful stand up:</p>
-                <ul>
-                    <li>Smile</li>
-                    <li>Wave</li>
-                    <li>Throw your hands in the air like you just don't care</li>
-                </ul>
-            </div>
-            <div class="ratings-container">
-                <div class="ratings-link">
-                    <i class="fa fa-2x fa-thumbs-up" aria-hidden="true"></i>
-                </div>
-                <div class="ratings-link">
-                    <i class="fa fa-2x fa-thumbs-o-down" aria-hidden="true"></i>
-                </div>
-            </div>
-        </div>
-    </div>
+    <div id="messagesContainer" class="messages-container"></div>
     <script src="js/main.js"></script>
 </body>
 </html>
